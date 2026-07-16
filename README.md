@@ -165,7 +165,7 @@ It is now time to install the dependencies for our code, for example PyTorch.
 The project has been packaged with a [`pyproject.toml`](pyproject.toml) so can be installed in one go.
 From within the root directory in a active virtual environment run:
 ```
-pip install .
+pip install pyproject.toml
 ```
 This will download the relevant dependencies into the venv as well as setting up the
 datasets that we will be using in the course.\
