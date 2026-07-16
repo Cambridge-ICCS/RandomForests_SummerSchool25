@@ -25,6 +25,7 @@ dependencies = [
     "notebook",
     "scikit-learn",
     "matplotlib",
+    "seaborn",
 ]
 
 [project.urls]
@@ -32,4 +33,4 @@ dependencies = [
 "Bug Tracker" = "https://github.com/Cambridge-ICCS/RandomForests_SummerSchool25/issues"
 
 [tool.setuptools]
-package-dir = {}
+packages = []
